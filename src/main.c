@@ -3,7 +3,7 @@
  *
  * @brief Permutation generator
  *
- * @author Samuele Germiniani
+ * @author Klea Cavo
  *
  */
 
